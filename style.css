@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+    color: cyan;
+}
+
+main {
+    color: darkgreen;
+}
+
+h2 {
+    color: darkorange;
+}
+
+footer {
+    color: darkturquoise;
+}
+
+p {
+    color: floralwhite;
+}
+
+ h1 {
+    color: blueviolet;
+ }
